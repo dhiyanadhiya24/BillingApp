@@ -1,7 +1,5 @@
 package subscriptionApp;
 import java.util.*;
-
-public class BillingAppMain {
 	
 	
 	// ---------- Base Plan Class ----------
@@ -211,4 +209,4 @@ public class BillingAppMain {
 	    }
 	}
 
-}
+
